@@ -31,8 +31,7 @@ Installation
 2. Install dependencies:
    pip install -r requirements.txt
 
-3. For the GUI (hosted separately), visit:  
-   https://github.com/LSU-Devision/GUI  
+3. For the GUI (hosted separately), visit:  https://github.com/LSU-Devision/GUI  
    and follow its instructions to run the application.
 
 How to Annotate Images
