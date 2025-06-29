@@ -52,6 +52,8 @@ Dependencies
 Credits
 -------
 Developed by LSU students and faculty as part of the Math Capstone course.
+
+
 Supervisors: Prof. Peter R Wolenski (Mathematics) and Dr. Yue Liu (AGGRC)
 
 
