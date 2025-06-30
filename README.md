@@ -66,5 +66,5 @@ In WACV 2020. https://doi.org/10.1109/WACV45572.2020.9093435.
 3. Weigert, M., & Schmidt, U. (2022). Nuclei Instance Segmentation and Classification in Histopathology Images with StarDist.
 In ISBIC 2022. https://doi.org/10.1109/ISBIC56247.2022.9854534.
 
-4.StarDist GitHub (2024). StarDist: Object Detection with Star-Convex Shapes.
+4. StarDist GitHub (2024). StarDist: Object Detection with Star-Convex Shapes.
 https://github.com/stardist/stardist.
